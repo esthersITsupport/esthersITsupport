@@ -1,5 +1,8 @@
-##HI, AM ESTHER MBOYA
-I am an ICT Technician specializing in **responsive web development** and *IT support solutions*.
+# Hi, I'm Esther! 👋
+
+> I am an ICT Technician specializing in responsive web development and IT support solutions.
+
+I provide reliable hardware maintenance, network setup, and custom frontend layouts
 <!--
 Website designer, graphic designer and an IT technician
 
