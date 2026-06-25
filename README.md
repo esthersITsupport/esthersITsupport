@@ -1,7 +1,7 @@
 HI, AM ESTHER MBOYA
 
 <!--
-**esthersITsupport/esthersITsupport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website designer, graphic designer and an IT technician
 
 Here are some ideas to get you started:
 
