@@ -1,5 +1,5 @@
-HI, AM ESTHER MBOYA
-Website designer, graphic designer and an IT technician
+##HI, AM ESTHER MBOYA
+I am an ICT Technician specializing in **responsive web development** and *IT support solutions*.
 <!--
 Website designer, graphic designer and an IT technician
 
