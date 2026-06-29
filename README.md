@@ -3,6 +3,42 @@
  I am an ICT Technician specializing in responsive web development and IT support solutions.
 
 I provide reliable hardware maintenance, network setup, and custom frontend layouts
+## 🔧 Technical Skills & Tools
+
+### 🖥️ Computer Maintenance
+Proactive hardware upkeep, assembly, and system deployment.
+*   **Core Focus:** Component replacement, thermal management, OS installation.
+*   <details><summary><b>View Tool Stack</b></summary>
+    <ul>
+      <li>Precision screwdriver set</li>
+      <li>Anti-static wrist strap</li>
+      <li>Thermal paste (MX-4/MX-6)</li>
+      <li>Rufus & Windows 10 installation media</li>
+    </ul>
+    </details>
+
+### 🔍 Troubleshooting & Diagnostics
+Root-cause analysis for hardware, operating systems, and network layers.
+*   **Core Focus:** POST failure isolation, CMOS/BIOS flashing, network cable testing.
+*   <details><summary><b>View Tool Stack</b></summary>
+    <ul>
+      <li>Wireshark (Network Analysis)</li>
+      <li>Command Line Utilities (ping, tracert, nslookup)</li>
+      <li>Hirens BootCD / WinPE</li>
+      <li>Digital Multimeter</li>
+    </ul>
+    </details>
+
+### 🎨 Graphic Design
+Visual identity, layout design, and digital asset creation.
+*   **Core Focus:** Vector logos, branding assets, event posters.
+*   **Tool Stack:** `Figma` | `Adobe Photoshop` | `Canva`
+
+### 🌐 Website Design & Front-End
+Building clean, responsive web layouts with semantic code structure.
+*   **Core Focus:** CSS Flexbox/Grid, semantic HTML5, responsive navigation menus.
+*   **Tool Stack:** `VS Code` | `Git & GitHub` | `Edge DevTools`
+
 <!--
 Website designer, graphic designer and an IT technician
 
