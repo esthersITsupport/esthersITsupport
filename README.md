@@ -1,6 +1,6 @@
 # Hi, I'm Esther! 👋
 
-> I am an ICT Technician specializing in responsive web development and IT support solutions.
+ I am an ICT Technician specializing in responsive web development and IT support solutions.
 
 I provide reliable hardware maintenance, network setup, and custom frontend layouts
 <!--
