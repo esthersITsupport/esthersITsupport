@@ -3,7 +3,7 @@
  I am an ICT Technician specializing in responsive web development and IT support solutions.
 
 I provide reliable hardware maintenance, network setup, and custom frontend layouts
-## 🔧 Technical Skills & Tools
+# 🔧 Technical Skills & Tools
 
 ### 🖥️ Computer Maintenance
 Proactive hardware upkeep, assembly, and system deployment.
