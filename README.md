@@ -58,7 +58,7 @@ Feel free to reach out for collaborations, technical support inquiries, or just 
 
 I love bringing technical ideas to life. You can check out my fully responsive live site and professional portfolio here:
 
-👉 **[Visit My Live Portfolio](https://esthersitsupport.github.io/your-portfolio)**
+👉 **[Visit My Live Portfolio](https://esthersitsupport.github.io/portfolio)**
 
 ---
 <!--
