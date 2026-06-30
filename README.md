@@ -54,10 +54,13 @@ Feel free to reach out for collaborations, technical support inquiries, or just 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-## 🌐 Explore My Work
-<a href="https://esthersitsupport.github.io/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
+### 🌐 Explore My Work
+
+I love bringing technical ideas to life. You can check out my fully responsive live site and professional portfolio here:
+
+👉 **[Visit My Live Portfolio](https://esthersitsupport.github.io/your-portfolio)**
+
+---
 <!--
 Website designer, graphic designer and an IT technician
 
